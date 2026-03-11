@@ -12,3 +12,4 @@
 
 ## mkdocs output
 /site
+!buildTools
