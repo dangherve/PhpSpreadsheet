@@ -15,3 +15,5 @@
 /site
 
 !buildTools
+
+!.woodpecker
